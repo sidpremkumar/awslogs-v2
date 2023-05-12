@@ -12,7 +12,7 @@ install_requires = [
 setup(
     name='awslogs',
     version='0.15.0',
-    url='https://github.com/jorgebastida/awslogs',
+    url='https://github.com/sidpremkumar/awslogs-v2',
     license='BSD',
     author='Jorge Bastida',
     author_email='me@jorgebastida.com',

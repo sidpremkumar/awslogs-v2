@@ -58,7 +58,7 @@ Example
 
 Running: ``awslogs get /var/logs/syslog ALL -s1d`` will return you events from any ``stream`` in the ``/var/logs/syslog`` group generated in the last day.
 
-.. image:: https://github.com/jorgebastida/awslogs/raw/master/media/screenshot.png
+.. image:: https://github.com/sidpremkumar/awslogs-v2/blob/master/media/screenshot.png?raw=true
 
 
 Installation
