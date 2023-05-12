@@ -203,7 +203,7 @@ def main(argv=None):
         options['aws_profile'] = 'SENSITIVE'
         sys.stderr.write("\n")
         sys.stderr.write("\nYou've found a bug! Please, raise an issue attaching the following traceback\n")
-        sys.stderr.write("https://github.com/jorgebastida/awslogs/issues/new\n")
+        sys.stderr.write("https://github.com/sidpremkumar/awslogs-v2/issues/new\n")
         sys.stderr.write("\n")
 
         issue_info = "\n".join((
